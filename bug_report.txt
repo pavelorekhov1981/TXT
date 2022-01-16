@@ -1,1 +1,11 @@
-
+	Summary:         	Login: Error messages in the login form are displayed in English
+	Environment:     	All browsers / devices
+	Severity:   	 	Major
+	Steps to reproduce: 1. Open front end https:/www.test-obelink.be:8443/
+						2. Follow "Inloggen" link
+						3. Fill required fields with invalid data
+						4. Click "Inlogged" button
+						5. Pay attention to error messages
+	Actual result:  	Error messages in the login form are displayed in English
+	Expected result:	Error messages in the login form are displayed in chosen language
+	Attachment			http://prntscr.com/....
